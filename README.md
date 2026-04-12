@@ -3,25 +3,13 @@
 
 ---
 
-## 🌱 I’m currently learning
-Data Structures & Algorithms (Java), Backend Development with Spring Boot, and core Machine Learning concepts using Python
+- 🌱 I’m currently learning: Data Structures & Algorithms (Java), Spring Boot backend development, and Machine Learning (Python)
 
----
+- 👯 I’m looking to collaborate on: Innovative student projects, hackathons, and open-source contributions
 
-## 👯 I’m looking to collaborate on
-Innovative student projects, hackathons, and open-source contributions
+- 💬 Ask me about: DSA in Java, Spring Boot backend, and beginner AI/ML concepts
 
----
-
-## 💬 Ask me about
-DSA in Java, Spring Boot backend development, and beginner AI/ML concepts
-
----
-
-## 📫 How to reach me
-📧 nikshepd01@gmail.com
-
----
+- 📫 How to reach me: nikshepd01@gmail.com
 
 ## 🛠️ Skills
 
@@ -57,13 +45,21 @@ DSA in Java, Spring Boot backend development, and beginner AI/ML concepts
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikshep-root&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikshep-root&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nikshep-root&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikshep-root&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikshep-root&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikshep-root&theme=github_dark" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/nikshep-root" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/View%20My%20GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
