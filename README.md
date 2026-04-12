@@ -1,92 +1,69 @@
 <h1 align="center">Hi 👋, I'm Nikshep D</h1>
 <h3 align="center">CS(AIML) student @ NIE Mysore | DSA (Java) & Spring Boot Backend | Building impactful projects 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikshep-root&label=Profile%20views&color=0e75b6&style=flat" alt="nikshep-root" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nikshep-root" alt="nikshep-root" />
-  </a>
-</p>
-
 ---
 
 ## 🌱 I’m currently learning
-- Data Structures & Algorithms (Java)  
-- Backend Development with Spring Boot  
-- Machine Learning (Python, NumPy, Pandas)
+Data Structures & Algorithms (Java), Backend Development with Spring Boot, and core Machine Learning concepts using Python
 
 ---
 
 ## 👯 I’m looking to collaborate on
-- AI/ML projects  
-- Spring Boot backend systems  
-- Hackathons & open-source contributions  
-
----
-
-## 🤝 I’m looking for help with
-- Advanced DSA problem solving  
-- Backend architecture (Spring Boot)  
-- Applying ML in real-world projects  
+Innovative student projects, hackathons, and open-source contributions
 
 ---
 
 ## 💬 Ask me about
-- DSA in Java  
-- Spring Boot backend development  
-- Beginner AI/ML projects  
+DSA in Java, Spring Boot backend development, and beginner AI/ML concepts
 
 ---
 
 ## 📫 How to reach me
-📧 **nikshepd01@gmail.com**
+📧 nikshepd01@gmail.com
+
+---
+
+## 🛠️ Skills
+
+| Category | Skills |
+|----------|--------|
+| 💻 Programming Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> |
+| 🌐 Frontend Development | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> |
+| ⚙️ Backend Development | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/> |
+| 🤖 AI / ML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/> |
+| 🗄️ Database | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/> |
+| 🚀 DevOps | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> |
+| ☁️ BaaS | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> |
+| 🧰 Tools | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> |
 
 ---
 
 ## 🌐 Connect with me
-<p align="center">
-  <a href="https://twitter.com/nikshep_17" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/nikshep-d-481368330" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/nikshep_17" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.topcoder.com/members/570008" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" height="30" width="40" />
-  </a>
-</p>
 
----
-
-## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
+  <a href="https://github.com/nikshep-root" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://twitter.com/nikshep_17" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://linkedin.com/in/nikshep-d-481368330" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 10px;" />
+  </a>
+  <a href="https://leetcode.com/nikshep_17" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" style="margin: 10px;" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikshep-root&show_icons=true&locale=en" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikshep-root&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nikshep-root&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nikshep-root&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
----
-
-## 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikshep-root&" />
+  <img src="https://streak-stats.demolab.com?user=nikshep-root&theme=tokyonight&hide_border=true" height="150"/>
 </p>
-
