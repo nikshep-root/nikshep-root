@@ -56,10 +56,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikshep-root&theme=github_dark" />
 </p>
 
----
 
-<p align="center">
-  <a href="https://github.com/nikshep-root" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
