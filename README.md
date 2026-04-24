@@ -15,7 +15,7 @@
 
 | Category | Skills |
 |----------|--------|
-| 💻 Programming Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> |
+| 💻 Programming Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> |
 | 🌐 Frontend Development | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> |
 | ⚙️ Backend Development | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/> |
 | 🤖 AI / ML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/> |
