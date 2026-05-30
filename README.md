@@ -29,18 +29,10 @@
 ## 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/nikshep-root" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://twitter.com/nikshep_17" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://linkedin.com/in/nikshep-d-481368330" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" style="margin: 10px;" />
-  </a>
-  <a href="https://leetcode.com/nikshep_17" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" style="margin: 10px;" />
-  </a>
+  <a href="https://github.com/nikshep-root" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/nikshep_17" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/nikshep-d-481368330" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/nikshep_17" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" /></a>
 </p>
 
 ---
