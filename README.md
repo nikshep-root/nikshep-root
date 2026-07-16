@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikshep D</h1>
-<h3 align="center">CS(AIML) student @ NIE Mysore | DSA (Java) & Spring Boot Backend | Building impactful projects 🚀</h3>
+<h3 align="center">CS(AIML) student at NIE Mysore | DSA (Java) & Spring Boot Backend | Building impactful projects 🚀</h3>
 
 ---
 
