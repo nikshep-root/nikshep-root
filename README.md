@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nikshep D</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi,+I'm+Nikshep+D" alt="Typing SVG" />
+  </a>
+</h1>
+
 <h3 align="center">CS(AIML) student at NIE Mysore | DSA (Java) & Spring Boot Backend | Building impactful projects 🚀</h3>
 
 ---
