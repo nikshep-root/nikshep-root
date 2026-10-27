@@ -25,7 +25,7 @@
 | ⚙️ Backend Development | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30"/> |
 | 🤖 AI / ML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="30"/> |
 | 🗄️ Database | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/> |
-| 🚀 DevOps | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30"/> |
+| 🚀 CI/CD & DevOps | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="30" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" /> |
 | ☁️ BaaS | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/> |
 | 🧰 Tools | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/> |
 
