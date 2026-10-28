@@ -42,6 +42,11 @@
 
 ---
 
+## 🌱 Open Source & Contributions
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/nikshep-root/badge.svg)](https://hub.xerj.org/contributors/nikshep-root)
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
